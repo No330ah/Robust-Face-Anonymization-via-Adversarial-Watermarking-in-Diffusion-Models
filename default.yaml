@@ -1,0 +1,15 @@
+yaml_config = '''
+output_dir: "output"
+vae_path: "weights/flux_vae"
+arcface_path: "weights/arcface_res50.pth"
+learning_rate: 2e-4
+train_batch_size: 4
+num_train_epochs: 10
+max_grad_norm: 1.0
+gradient_accumulation_steps: 1
+'''
+
+with open("/mnt/data/anonymizer_project/configs/default.yaml", "w") as f:
+    f.write(yaml_config)
+
+"/mnt/data/anonymizer_project/configs/default.yaml"
