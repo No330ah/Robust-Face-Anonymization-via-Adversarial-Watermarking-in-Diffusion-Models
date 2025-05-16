@@ -9,19 +9,19 @@
 
 ### 1️⃣ Overall Training Frameworkss
 
-![Overview](pic/framework.png)
+![Overview](./pic/framework.png)
 
 ---
 
 ### 2️⃣ DiT-based Multi-modal Backbone
 
-![MM-DiT](pic/Backbone.png)
+![MM-DiT](./pic/Backbone.png)
 
 ---
 
 ### 3️⃣ Qualitative Comparison
 
-![Qualitative](pic/Quantitative.png)
+![Qualitative](./pic/Quantitative.png)
 
 ---
 
